@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "checking",
+      "setup": "",
+      "run": "./ex1_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
